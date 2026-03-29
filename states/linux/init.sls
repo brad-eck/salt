@@ -2,4 +2,4 @@ base-packages:
   pkg.installed:
     - pkgs:
       - git
-      - vim
+      - vim-common
